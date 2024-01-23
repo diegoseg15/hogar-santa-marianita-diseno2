@@ -1,3 +1,7 @@
+<div width="100%">
+    <img src="https://github.com/diegoseg15/hogar-santa-marianita-diseno2/blob/main/src/assets/images/Captura-Presentaci%C3%B3n.png?raw=true" alt="presentación de la página del hogar santa marianita" />
+</div>
+
 # Hogar Santa Marianita V2
 
 ## Descripción
